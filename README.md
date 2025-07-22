@@ -1,6 +1,6 @@
 # DistilBERT-Paper-implementation
 
-# 🦄 DistilBERT Paper Implementation — Tiny Transformers, Big Results!
+# DistilBERT Paper Implementation — Tiny Transformers, Big Results!
 
 Welcome to the *unofficially-official* playground for DistilBERT!  
 If you’ve ever thought: “What if BERT had a little sibling who’s faster, lighter, and still aces the test?” — you’re in the right place!
